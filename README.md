@@ -6,4 +6,4 @@ Mr. Nik Mohd Habibullah shared valuable lessons on career adaptability, emphasiz
 
 To further analyze and document the key insights gained from the industry talk, we were required to prepare an academic writing report. This report will provide a structured evaluation of the speakers' discussions, highlighting their professional experiences, technical expertise, and industry expectations. It will also reflect on the relevance of these insights to our academic and career development, demonstrating a deeper understanding of the skills and knowledge required in the field of computer science.
 
-[![Sneak Peek of the PDF]()](https://github.com/nrathrhabs/images/blob/main/Newsletter%20ASG%204.pdf)
+[![Academic Writting Report](https://github.com/aliaaishah/INDUSTRY-TALK-SKILLS-IN-UNIVERSITY-AND-INDUSTRY-/blob/main/Screenshot%202025-02-12%20022157.png)](https://github.com/nrathrhabs/images/blob/main/Newsletter%20ASG%204.pdf)
